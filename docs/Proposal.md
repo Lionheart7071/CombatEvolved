@@ -19,7 +19,3 @@ The success of the project will be determined by the following parameters:
 - Whether the AI is able to surpass the score of human players.  
 
 With the base score of 0 kills and 0 deaths, we expect to improve the combat efficiency of the AI by testing in various environments with a varying density as well as difficulty of enemies. We will be observing the progress of the AI in all sets of environments to verify whether the AI learns to fight and win.
-
-### Appointment with the Instructor:
-2:15pm - 2:30pm, Thursday, April 25, 2019
-10:15am - 10:30am, Wednesday, May 8, 2019
