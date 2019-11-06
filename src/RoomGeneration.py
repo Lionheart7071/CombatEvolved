@@ -1,6 +1,6 @@
 import random
 
-MOB_TYPES = ["Zombie", "Skeleton"]
+MOB_TYPES = ["Zombie", "Skeleton", "Creeper", "Endermite"]
 
 def generate_room(width=20, length=20, monsters = 1):
     room = '''<DrawCuboid x1="{}" y1="63" z1="{}" x2="{}" y2="70" z2="{}" type="iron_block"/>
