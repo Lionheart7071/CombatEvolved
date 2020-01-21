@@ -1,11 +1,12 @@
 ---
 layout: default
-title:  Team
+title:  MonsterHunters
 ---
 
 # {{ page.title }}
 
 
-## USER 1
-Dilsher Bhat: 62871770
+## Dilsher Bhat
+***UCI Net ID***: dilsherb, 62871770
+
 
