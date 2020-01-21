@@ -108,6 +108,10 @@ The main tactic I saw from the agent is that it would hug the wall and have the 
 
 Overall, we consider that the project is a success with the results produced despite needing to rely on handicaps.
 
+### Code Respository
+
+- [CombatEvolved](https://github.com/Lionheart7071/CombatEvolved)
+
 ### Resources:
 As we were updating the project to include Deep Reinforcement Learning, we referenced Fighting Zombies In Minecraft With Deep Reinforcmenet Learning () heavily as it provided a great basis for us to learn from. From then on we used TensorFlow's tutorials and documentation to try and figure out the rest of the network.
 
